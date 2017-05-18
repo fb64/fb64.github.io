@@ -17,7 +17,7 @@
       <pubDate>Thu, 18 May 2017 18:17:52 +0000</pubDate>
       
       <guid>http://blog.fbernard.fr/2017/05/spam-et-champ-spf/</guid>
-      <description>Problématique Il y a peut de temps j&amp;rsquo;ai installé un serveur SMTP afin de pouvoir envoyer des mails en utilisant un nom de domaine particulier. Après avoir installé et configuré Postfix sur un serveur Ubuntu, je me suis rendu compte que les mails partaient bien mais que la plus part des destinataires les recevaient pas.
+      <description>Problématique Il y a peut de temps j&amp;rsquo;ai installé un serveur SMTP afin de pouvoir envoyer des mails en utilisant un nom de domaine particulier. Après avoir installé et configuré Postfix sur un serveur Ubuntu, je me suis rendu compte que les mails partaient bien mais que la plus part des destinataires ne les recevaient pas.
 Je me suis rendu compte du problème en affichant la sources d&amp;rsquo;un des mails reçu :</description>
     </item>
     
