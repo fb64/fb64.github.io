@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Pas de Problème, que des Solutions!</title>
+    <link>http://blog.fbernard.fr/page/</link>
+    <description>Recent content in Pages on Pas de Problème, que des Solutions!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 15 Mar 2016 18:21:33 -0700</lastBuildDate>
+    
+	<atom:link href="http://blog.fbernard.fr/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://blog.fbernard.fr/privacy-policy/</link>
+      <pubDate>Tue, 15 Mar 2016 18:21:33 -0700</pubDate>
+      
+      <guid>http://blog.fbernard.fr/privacy-policy/</guid>
+      <description>Privacy policy here.</description>
+    </item>
+    
+    <item>
+      <title>Qui suis-je ? (où vais-je)</title>
+      <link>http://blog.fbernard.fr/about/</link>
+      <pubDate>Tue, 15 Mar 2016 18:18:41 -0700</pubDate>
+      
+      <guid>http://blog.fbernard.fr/about/</guid>
+      <description>Je me présente je m’appelle Florian Bernard, je suis développeur depuis 2009. Après un long passage (6 ans) en SSI chez Capgemini j’ai décidé de rejoindre une startup Appstud dans laquelle je travaille depuis Janvier 2016.
+Dans mon poste actuelle, il m’arrive d’intervenir sur toutes les phases d’un projet, du recueil de besoins jusqu’à la mise en production en passant par le développement et les tests. Cette expérience m’amène chaque jour à rencontrer des problématiques et à essayer de les résoudre.</description>
+    </item>
+    
+  </channel>
+</rss>

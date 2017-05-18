@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pas de Problème, que des Solutions!</title>
+    <link>http://blog.fbernard.fr/post/</link>
+    <description>Recent content in Posts on Pas de Problème, que des Solutions!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 18 May 2017 18:17:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.fbernard.fr/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spam et champ SPF</title>
+      <link>http://blog.fbernard.fr/2017/05/spam-et-champ-spf/</link>
+      <pubDate>Thu, 18 May 2017 18:17:52 +0000</pubDate>
+      
+      <guid>http://blog.fbernard.fr/2017/05/spam-et-champ-spf/</guid>
+      <description>Problématique Il y a peut de temps j&amp;rsquo;ai installé un serveur SMTP afin de pouvoir envoyer des mails en utilisant un nom de domaine particulier. Après avoir installé et configuré Postfix sur un serveur Ubuntu, je me suis rendu compte que les mails partaient bien mais que la plus part des destinataires les recevaient pas.
+Je me suis rendu compte du problème en affichant la sources d&amp;rsquo;un des mails reçu :</description>
+    </item>
+    
+  </channel>
+</rss>
