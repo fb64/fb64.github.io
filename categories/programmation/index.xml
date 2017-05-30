@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Pas de Problème, que des Solutions!</title>
-    <link>http://blog.fbernard.fr/post/</link>
-    <description>Recent content in Posts on Pas de Problème, que des Solutions!</description>
+    <title>Programmation on Pas de Problème, que des Solutions!</title>
+    <link>http://blog.fbernard.fr/categories/programmation/</link>
+    <description>Recent content in Programmation on Pas de Problème, que des Solutions!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 30 May 2017 17:57:22 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.fbernard.fr/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.fbernard.fr/categories/programmation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,16 +22,6 @@ Exemple de modélisation :
 Format xml
 &amp;lt;voiture&amp;gt; &amp;lt;marque&amp;gt;renault&amp;lt;/marque&amp;gt; &amp;lt;couleur&amp;gt;rouge&amp;lt;/couleur&amp;gt; &amp;lt;prix&amp;gt;10000.00&amp;lt;/prix&amp;gt; &amp;lt;/voiture&amp;gt;  Classe Java correspondante
 @XmlRootElement(name = &amp;quot;voiture&amp;quot;) //indication du noeud parent xml représentant l&#39;objet @XmlAccessorType(XmlAccessType.FIELD) // méthode d&#39;accès au propriété de l&#39;objet public class Voiture{ private String marque; private String couleur; private Double prix; //Getters et Setters //	.</description>
-    </item>
-    
-    <item>
-      <title>Spam et champ SPF</title>
-      <link>http://blog.fbernard.fr/2017/05/spam-et-champ-spf/</link>
-      <pubDate>Thu, 18 May 2017 18:17:52 +0000</pubDate>
-      
-      <guid>http://blog.fbernard.fr/2017/05/spam-et-champ-spf/</guid>
-      <description>Problématique Il y a peut de temps j&amp;rsquo;ai installé un serveur SMTP afin de pouvoir envoyer des mails en utilisant un nom de domaine particulier. Après avoir installé et configuré Postfix sur un serveur Ubuntu, je me suis rendu compte que les mails partaient bien mais que la plus part des destinataires ne les recevaient pas.
-Je me suis rendu compte du problème en affichant la sources d&amp;rsquo;un des mails reçu :</description>
     </item>
     
   </channel>

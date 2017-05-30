@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</loc>
+    <lastmod>2017-05-30T17:57:22+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.fbernard.fr/2017/05/spam-et-champ-spf/</loc>
     <lastmod>2017-05-18T18:17:52+00:00</lastmod>
   </url>
@@ -35,6 +40,12 @@
   </url>
   
   <url>
+    <loc>http://blog.fbernard.fr/tags/java/</loc>
+    <lastmod>2017-05-30T17:57:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.fbernard.fr/tags/mail/</loc>
     <lastmod>2017-05-18T18:17:52+00:00</lastmod>
     <priority>0</priority>
@@ -48,13 +59,19 @@
   
   <url>
     <loc>http://blog.fbernard.fr/</loc>
-    <lastmod>2017-05-18T18:17:52+00:00</lastmod>
+    <lastmod>2017-05-30T17:57:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.fbernard.fr/post/</loc>
-    <lastmod>2017-05-18T18:17:52+00:00</lastmod>
+    <lastmod>2017-05-30T17:57:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.fbernard.fr/categories/programmation/</loc>
+    <lastmod>2017-05-30T17:57:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,6 +84,12 @@
   <url>
     <loc>http://blog.fbernard.fr/tags/</loc>
     <lastmod>2017-05-18T18:17:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.fbernard.fr/tags/xml/</loc>
+    <lastmod>2017-05-30T17:57:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   

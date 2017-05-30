@@ -6,10 +6,23 @@
     <description>Recent content on Pas de Problème, que des Solutions!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 18 May 2017 18:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 17:57:22 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.fbernard.fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Desérialisation générique en xml</title>
+      <link>http://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</link>
+      <pubDate>Tue, 30 May 2017 17:57:22 +0200</pubDate>
+      
+      <guid>http://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</guid>
+      <description>Problématique Il m&amp;rsquo;arrive souvent de consomer des données au format XML en java, pour faciliter la serialisation / desérialisation j&amp;rsquo;utilise régulièrement l&amp;rsquo;API JAXB qui est l&amp;rsquo;api fourni par défaut avec java pour traiter les données au format xml.
+Exemple de modélisation :
+Format xml
+&amp;lt;voiture&amp;gt; &amp;lt;marque&amp;gt;renault&amp;lt;/marque&amp;gt; &amp;lt;couleur&amp;gt;rouge&amp;lt;/couleur&amp;gt; &amp;lt;prix&amp;gt;10000.00&amp;lt;/prix&amp;gt; &amp;lt;/voiture&amp;gt;  Classe Java correspondante
+@XmlRootElement(name = &amp;quot;voiture&amp;quot;) //indication du noeud parent xml représentant l&#39;objet @XmlAccessorType(XmlAccessType.FIELD) // méthode d&#39;accès au propriété de l&#39;objet public class Voiture{ private String marque; private String couleur; private Double prix; //Getters et Setters //	.</description>
+    </item>
     
     <item>
       <title>Spam et champ SPF</title>

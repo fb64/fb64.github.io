@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Hugo 0.20.7" />
-    <title>Dns</title>
+    <title>Programmation</title>
     <meta name="description" content="Blog présentant des solutions aux problèmes recontré en tant que développeur" />
     <meta name="keywords" content='développement,technique' />
     
@@ -18,14 +18,14 @@
     <link rel="stylesheet" href="http://blog.fbernard.fr/css/phlat.css" />
     
 
-    <meta property="og:title" content="Dns" />
+    <meta property="og:title" content="Programmation" />
 <meta property="og:description" content="Blog présentant des solutions aux problèmes recontré en tant que développeur" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://blog.fbernard.fr/tags/dns/" />
+<meta property="og:url" content="http://blog.fbernard.fr/categories/programmation/" />
 
 
 
-<meta property="og:updated_time" content="2017-05-18T18:17:52&#43;00:00"/>
+<meta property="og:updated_time" content="2017-05-30T17:57:22&#43;02:00"/>
 
 
 
@@ -38,7 +38,7 @@
 
     
     
-<meta itemprop="name" content="Dns">
+<meta itemprop="name" content="Programmation">
 <meta itemprop="description" content="Blog présentant des solutions aux problèmes recontré en tant que développeur">
 
 
@@ -84,14 +84,17 @@
                     
                         <div class="row">
                             <div class="col-md-12 content-card">
-                                <h1><a href="http://blog.fbernard.fr/2017/05/spam-et-champ-spf/">Spam et champ SPF</a></h1>
+                                <h1><a href="http://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/">Desérialisation générique en xml</a></h1>
                                 <ul class="list-inline">
-                                    <li><i class="fa fa-calendar"></i>2017-05-18</li>
+                                    <li><i class="fa fa-calendar"></i>2017-05-30</li>
                                     <li><i class="fa fa-user"></i>Florian Bernard</li>
                                 </ul>
-                                Problématique Il y a peut de temps j&rsquo;ai installé un serveur SMTP afin de pouvoir envoyer des mails en utilisant un nom de domaine particulier. Après avoir installé et configuré Postfix sur un serveur Ubuntu, je me suis rendu compte que les mails partaient bien mais que la plus part des destinataires ne les recevaient pas.
-Je me suis rendu compte du problème en affichant la sources d&rsquo;un des mails reçu :
-                                <a class="btn btn-custom" href="http://blog.fbernard.fr/2017/05/spam-et-champ-spf/" role="button">Lire Plus</a>
+                                Problématique Il m&rsquo;arrive souvent de consomer des données au format XML en java, pour faciliter la serialisation / desérialisation j&rsquo;utilise régulièrement l&rsquo;API JAXB qui est l&rsquo;api fourni par défaut avec java pour traiter les données au format xml.
+Exemple de modélisation :
+Format xml
+&lt;voiture&gt; &lt;marque&gt;renault&lt;/marque&gt; &lt;couleur&gt;rouge&lt;/couleur&gt; &lt;prix&gt;10000.00&lt;/prix&gt; &lt;/voiture&gt;  Classe Java correspondante
+@XmlRootElement(name = &quot;voiture&quot;) //indication du noeud parent xml représentant l'objet @XmlAccessorType(XmlAccessType.FIELD) // méthode d'accès au propriété de l'objet public class Voiture{ private String marque; private String couleur; private Double prix; //Getters et Setters //	.
+                                <a class="btn btn-custom" href="http://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/" role="button">Lire Plus</a>
                             </div>
                         </div>
                     
