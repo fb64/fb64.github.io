@@ -1,94 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</loc>
+    <loc>https://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</loc>
     <lastmod>2017-05-30T17:57:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/2017/05/spam-et-champ-spf/</loc>
+    <loc>https://blog.fbernard.fr/2017/05/spam-et-champ-spf/</loc>
     <lastmod>2017-05-18T18:17:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/privacy-policy/</loc>
+    <loc>https://blog.fbernard.fr/privacy-policy/</loc>
     <lastmod>2016-03-15T18:21:33-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/about/</loc>
+    <loc>https://blog.fbernard.fr/about/</loc>
     <lastmod>2016-03-15T18:18:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/categories/administration/</loc>
+    <loc>https://blog.fbernard.fr/categories/administration/</loc>
     <lastmod>2017-05-18T18:17:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/categories/</loc>
+    <loc>https://blog.fbernard.fr/categories/</loc>
     <lastmod>2017-05-18T18:17:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/tags/dns/</loc>
+    <loc>https://blog.fbernard.fr/tags/dns/</loc>
     <lastmod>2017-05-18T18:17:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/tags/java/</loc>
+    <loc>https://blog.fbernard.fr/tags/java/</loc>
     <lastmod>2017-05-30T17:57:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/tags/mail/</loc>
+    <loc>https://blog.fbernard.fr/tags/mail/</loc>
     <lastmod>2017-05-18T18:17:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/page/</loc>
+    <loc>https://blog.fbernard.fr/page/</loc>
     <lastmod>2016-03-15T18:21:33-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/</loc>
+    <loc>https://blog.fbernard.fr/</loc>
     <lastmod>2017-05-30T17:57:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/post/</loc>
+    <loc>https://blog.fbernard.fr/post/</loc>
     <lastmod>2017-05-30T17:57:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/categories/programmation/</loc>
+    <loc>https://blog.fbernard.fr/categories/programmation/</loc>
     <lastmod>2017-05-30T17:57:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/tags/spf/</loc>
+    <loc>https://blog.fbernard.fr/tags/spf/</loc>
     <lastmod>2017-05-18T18:17:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/tags/</loc>
+    <loc>https://blog.fbernard.fr/tags/</loc>
     <lastmod>2017-05-18T18:17:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.fbernard.fr/tags/xml/</loc>
+    <loc>https://blog.fbernard.fr/tags/xml/</loc>
     <lastmod>2017-05-30T17:57:22+02:00</lastmod>
     <priority>0</priority>
   </url>

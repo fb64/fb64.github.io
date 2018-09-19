@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programmation on Pas de Problème, que des Solutions!</title>
-    <link>http://blog.fbernard.fr/categories/programmation/</link>
+    <link>https://blog.fbernard.fr/categories/programmation/</link>
     <description>Recent content in Programmation on Pas de Problème, que des Solutions!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 30 May 2017 17:57:22 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.fbernard.fr/categories/programmation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.fbernard.fr/categories/programmation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Desérialisation générique en xml</title>
-      <link>http://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</link>
+      <link>https://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</link>
       <pubDate>Tue, 30 May 2017 17:57:22 +0200</pubDate>
       
-      <guid>http://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</guid>
+      <guid>https://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</guid>
       <description>Problématique Il m&amp;rsquo;arrive souvent de consomer des données au format XML en java, pour faciliter la serialisation / desérialisation j&amp;rsquo;utilise régulièrement l&amp;rsquo;API JAXB qui est l&amp;rsquo;api fourni par défaut avec java pour traiter les données au format xml.
 Exemple de modélisation :
 Format xml

@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pas de Problème, que des Solutions!</title>
-    <link>http://blog.fbernard.fr/tags/</link>
+    <link>https://blog.fbernard.fr/tags/</link>
     <description>Recent content in Tags on Pas de Problème, que des Solutions!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 18 May 2017 18:17:52 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.fbernard.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.fbernard.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dns</title>
-      <link>http://blog.fbernard.fr/tags/dns/</link>
+      <link>https://blog.fbernard.fr/tags/dns/</link>
       <pubDate>Thu, 18 May 2017 18:17:52 +0000</pubDate>
       
-      <guid>http://blog.fbernard.fr/tags/dns/</guid>
+      <guid>https://blog.fbernard.fr/tags/dns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://blog.fbernard.fr/tags/java/</link>
+      <link>https://blog.fbernard.fr/tags/java/</link>
       <pubDate>Tue, 30 May 2017 17:57:22 +0200</pubDate>
       
-      <guid>http://blog.fbernard.fr/tags/java/</guid>
+      <guid>https://blog.fbernard.fr/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mail</title>
-      <link>http://blog.fbernard.fr/tags/mail/</link>
+      <link>https://blog.fbernard.fr/tags/mail/</link>
       <pubDate>Thu, 18 May 2017 18:17:52 +0000</pubDate>
       
-      <guid>http://blog.fbernard.fr/tags/mail/</guid>
+      <guid>https://blog.fbernard.fr/tags/mail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spf</title>
-      <link>http://blog.fbernard.fr/tags/spf/</link>
+      <link>https://blog.fbernard.fr/tags/spf/</link>
       <pubDate>Thu, 18 May 2017 18:17:52 +0000</pubDate>
       
-      <guid>http://blog.fbernard.fr/tags/spf/</guid>
+      <guid>https://blog.fbernard.fr/tags/spf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xml</title>
-      <link>http://blog.fbernard.fr/tags/xml/</link>
+      <link>https://blog.fbernard.fr/tags/xml/</link>
       <pubDate>Tue, 30 May 2017 17:57:22 +0200</pubDate>
       
-      <guid>http://blog.fbernard.fr/tags/xml/</guid>
+      <guid>https://blog.fbernard.fr/tags/xml/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pas de Problème, que des Solutions!</title>
-    <link>http://blog.fbernard.fr/</link>
+    <link>https://blog.fbernard.fr/</link>
     <description>Recent content on Pas de Problème, que des Solutions!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 30 May 2017 17:57:22 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.fbernard.fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.fbernard.fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Desérialisation générique en xml</title>
-      <link>http://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</link>
+      <link>https://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</link>
       <pubDate>Tue, 30 May 2017 17:57:22 +0200</pubDate>
       
-      <guid>http://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</guid>
+      <guid>https://blog.fbernard.fr/2017/05/des%C3%A9rialisation-g%C3%A9n%C3%A9rique-en-xml/</guid>
       <description>Problématique Il m&amp;rsquo;arrive souvent de consomer des données au format XML en java, pour faciliter la serialisation / desérialisation j&amp;rsquo;utilise régulièrement l&amp;rsquo;API JAXB qui est l&amp;rsquo;api fourni par défaut avec java pour traiter les données au format xml.
 Exemple de modélisation :
 Format xml
@@ -26,29 +26,29 @@ Format xml
     
     <item>
       <title>Spam et champ SPF</title>
-      <link>http://blog.fbernard.fr/2017/05/spam-et-champ-spf/</link>
+      <link>https://blog.fbernard.fr/2017/05/spam-et-champ-spf/</link>
       <pubDate>Thu, 18 May 2017 18:17:52 +0000</pubDate>
       
-      <guid>http://blog.fbernard.fr/2017/05/spam-et-champ-spf/</guid>
+      <guid>https://blog.fbernard.fr/2017/05/spam-et-champ-spf/</guid>
       <description>Problématique Il y a peut de temps j&amp;rsquo;ai installé un serveur SMTP afin de pouvoir envoyer des mails en utilisant un nom de domaine particulier. Après avoir installé et configuré Postfix sur un serveur Ubuntu, je me suis rendu compte que les mails partaient bien mais que la plus part des destinataires ne les recevaient pas.
 Je me suis rendu compte du problème en affichant la sources d&amp;rsquo;un des mails reçu :</description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://blog.fbernard.fr/privacy-policy/</link>
+      <link>https://blog.fbernard.fr/privacy-policy/</link>
       <pubDate>Tue, 15 Mar 2016 18:21:33 -0700</pubDate>
       
-      <guid>http://blog.fbernard.fr/privacy-policy/</guid>
+      <guid>https://blog.fbernard.fr/privacy-policy/</guid>
       <description>Privacy policy here.</description>
     </item>
     
     <item>
       <title>Qui suis-je ? (où vais-je)</title>
-      <link>http://blog.fbernard.fr/about/</link>
+      <link>https://blog.fbernard.fr/about/</link>
       <pubDate>Tue, 15 Mar 2016 18:18:41 -0700</pubDate>
       
-      <guid>http://blog.fbernard.fr/about/</guid>
+      <guid>https://blog.fbernard.fr/about/</guid>
       <description>Je suis Florian Bernard, j&amp;rsquo;ai 32ans et je suis développeur (professionnel) depuis 2009. Après un long passage (6 ans) en SSI chez Capgemini j’ai décidé de rejoindre une startup Appstud dans laquelle je travaille depuis Janvier 2016.
 Dans mon poste actuelle, il m’arrive d’intervenir sur toutes les phases d’un projet, du recueil de besoins jusqu’à la mise en production en passant par le développement et les tests. Cette expérience m’amène chaque jour à rencontrer des problématiques et à essayer de les résoudre.</description>
     </item>
